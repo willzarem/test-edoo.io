@@ -12,6 +12,10 @@
   fill-opacity: 0.5;
 }
 
+.app-simon .game-container {
+  margin-top: 80px;
+}
+
 .app-simon .game-container > svg {
   margin: 0 auto;
   display: block;

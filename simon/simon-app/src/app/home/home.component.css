@@ -1,0 +1,27 @@
+.app-home .title h1 {
+  font-size: 78px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.app-home .start {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.app-home .start p {
+  color: #FFFFFF;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.app-home .start img {
+  width: 35%;
+}
+
+.app-home .start .startButton {
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px 20px;
+}

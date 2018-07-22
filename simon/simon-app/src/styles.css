@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family:"HOUSE3009-Spaceport";
+  src:url("assets/fonts/HOUSE3009-Spaceport.eot?") format("eot"),
+    url("assets/fonts/HOUSE3009-Spaceport.woff") format("woff"),
+    url("assets/fonts/HOUSE3009-Spaceport.ttf") format("truetype"),
+    url("assets/fonts/HOUSE3009-Spaceport.svg#HOUSE3009-Spaceport") format("svg");
+  font-weight:normal;
+  font-style:normal;
+}
+
+.house-font {
+  font-family: 'HOUSE3009-Spaceport', sans-serif;
+}
+
+body {
+  background-color: #545454;
+}

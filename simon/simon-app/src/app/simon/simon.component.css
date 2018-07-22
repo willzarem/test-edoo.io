@@ -1,0 +1,18 @@
+.app-simon .instructions {
+  font-size: 20px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.simon-button {
+  cursor: pointer;
+}
+
+.simon-button:hover {
+  fill-opacity: 0.5;
+}
+
+.app-simon .game-container > svg {
+  margin: 0 auto;
+  display: block;
+}
